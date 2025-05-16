@@ -56,6 +56,7 @@ public class コンストラクタ {
         p.displayInfo();
     }
     
+    
 //Student
     // Student オブジェクトを作成
     Student student1 = new Student("田中", 85);
@@ -75,6 +76,7 @@ public class コンストラクタ {
     System.out.println("student3: " + student3.name + ", " + student3.score);
 }
     
+	
 //Car
     public static void printCarInfo(Car car) {
     	// nullチェックを行い、安全に車の情報を表示するメソッドを実装
