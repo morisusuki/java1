@@ -59,8 +59,6 @@ public class java入門 {
 			}
 		}
 		
-//		あああ
-
 		//応用問題9
 		System.out.println(sumArray(new int[] {10,20,30}));
 		
