@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 
 
+//testtest
+
 public class インスタンス {
 
 	public static void main(String[] args) {
